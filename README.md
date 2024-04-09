@@ -59,4 +59,4 @@ pnpm build
 
 ## License
 
-[MIT © stwflyfox-2024](./LICENSE)
+[MIT © TinyVue Admin-2024](./LICENSE)
